@@ -1,0 +1,9 @@
+.flowchart {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-template-rows: repeat(2, 1fr);
+  grid-auto-flow: dense;
+  justify-items: center;
+  align-items: center;
+  padding: 20px 0 20px 0;
+}

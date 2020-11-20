@@ -1,0 +1,21 @@
+.header {
+  height: 100px;
+  margin: 0 0 20px 0;
+
+  &__top {
+    background: #33c2d9;
+    height: 50px;
+  }
+
+  &__bot {
+    background: #ffffff;
+    height: 50px;
+  }
+}
+
+.widget-container {
+  background: #ffffff;
+  height: 570px;
+  margin: 0 auto;
+  width: 70%;
+}

@@ -1,0 +1,5 @@
+@import "../../styles/mixins";
+
+.cash-accounts {
+  @include widget-dimensions;
+}
